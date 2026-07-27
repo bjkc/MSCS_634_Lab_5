@@ -1,4 +1,4 @@
-# MSCS 634 - Lab 5: Hierarchical and DBSCAN Clustering Analysis
+# Advanced Big Data and Data Mining (MSCS-634-B01) - Lab 5: Hierarchical and DBSCAN Clustering Analysis
 
 ## Purpose
 This repository contains the complete implementation and evaluation of unsupervised machine learning algorithms—specifically **Agglomerative Hierarchical Clustering** and **DBSCAN**—applied to the standard **Wine dataset** from `scikit-learn`.
@@ -18,5 +18,5 @@ This repository contains the complete implementation and evaluation of unsupervi
 * `README.md` - Overview, methodology summary, and submission notes.
 
 ## Author
-* **Course:** MSCS 634 - Advanced Machine Learning
+* **Course:** Advanced Big Data and Data Mining (MSCS-634-B01)
 * **Assignment:** Lab 5
